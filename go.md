@@ -1,6 +1,6 @@
 module github.com/ccxp/ocr_for_zimukux
 
-go 1.21.6
+go 1.23
 
 require (
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.859
